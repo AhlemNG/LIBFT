@@ -13,7 +13,7 @@ This library serves as a foundational toolkit that can be reused in future C pro
 - Linked list handling utilities
 - Modular and reusable codebase
 
-  ---
+---
 
 ## 🛠️ Functions Overview
 
@@ -72,11 +72,9 @@ This library serves as a foundational toolkit that can be reused in future C pro
   - ft_lstnew
   - ft_lstsize
 
-  ---
+---
 ## 👷‍♀️ Compilation
-
 To compile the library, run:
-
 ```bash
 make
 ```
@@ -93,7 +91,7 @@ make re     # Recompile everything
 ---
 
 ## 💡 What I Learned
- - Deep understanding of C fundamentals
- - Memory management and pointer manipulation
- - Writing clean, reusable, and modular code
- - Debugging and edge-case handling
+- Deep understanding of C fundamentals
+- Memory management and pointer manipulation
+- Writing clean, reusable, and modular code
+- Debugging and edge-case handling
