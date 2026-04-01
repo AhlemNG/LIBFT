@@ -90,8 +90,10 @@ make clean  # Remove object files
 make fclean # Remove object files and library
 make re     # Recompile everything
 ```
-💡 What I Learned
-Deep understanding of C fundamentals
-Memory management and pointer manipulation
-Writing clean, reusable, and modular code
-Debugging and edge-case handling
+---
+
+## 💡 What I Learned
+ - Deep understanding of C fundamentals
+ - Memory management and pointer manipulation
+ - Writing clean, reusable, and modular code
+ - Debugging and edge-case handling
